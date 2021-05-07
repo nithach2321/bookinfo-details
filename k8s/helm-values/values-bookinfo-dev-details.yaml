@@ -1,4 +1,4 @@
-ratings:
+details:
   namespace: student43-bookinfo-dev
   image: ghcr.io/nithach2321/bookinfo-details
   tag: dev
