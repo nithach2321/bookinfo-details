@@ -1,4 +1,4 @@
-ratings:
+details:
   namespace: student43-bookinfo-prd
   image: ghcr.io/nithach2321/bookinfo-details
   tag: prd
